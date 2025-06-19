@@ -1,0 +1,7 @@
+# NLP
+- python nlp lib
+
+
+# PHP
+- php spellchecker lib?
+- php office lib
